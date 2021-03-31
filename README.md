@@ -1,5 +1,7 @@
 # 가비아 인턴쉽 프로젝트 G-market 문서
 
+접속 링크: http://dns-changmin.tk/
+
 ### 설계
 
 - [기능 구현 순서](architecture/기능구현순서.md)
