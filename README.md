@@ -1,6 +1,6 @@
-# 가비아 인턴쉽 프로젝트 G-market 문서
+# 가비아 G-market 프로젝트 문서
 
-접속 링크: http://dns-changmin.tk/
+접속 링크: ~~http://dns-changmin.tk/~~  http://27.96.134.173
 
 ### 설계
 
